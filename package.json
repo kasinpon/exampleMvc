@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "reflect-metadata": "^0.1.13",
     "mysql": "^2.15.0",
     "request": "^2.87.0",
