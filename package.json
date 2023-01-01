@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/node": "^10.12.11",
     "ts-node": "^7.0.1",
-    "tsconfig-paths": "^3.4.1",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^2.5.2"
   }
 }
